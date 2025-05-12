@@ -2,5 +2,5 @@ arroz
 lentejas
 jamon
 hamburguesa
-pomelo
-kiwi
+Auto
+
