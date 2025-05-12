@@ -1,4 +1,6 @@
 arroz
 lentejas
 jamon
-Arbol
+hamburguesa
+pomelo
+kiwi
